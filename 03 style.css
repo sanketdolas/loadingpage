@@ -1,0 +1,9 @@
+.box2{
+    background-color: rgb(246, 245, 245);
+    border: 10px solid rgb(0, 217, 255);
+    margin: 3px 440px 30px 440px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
